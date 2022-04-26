@@ -1,0 +1,7 @@
+Number of characters in the image: 5
+C
+B
+A
+A
+C
+{'C': 2, 'B': 1, 'A': 2}
